@@ -4,8 +4,9 @@ A weather dashboard that allows the user to search for a city by name and displa
 
 ## Technology Used
 
-HTML, CSS, JavaScript
-[Open Weather Map API](https://openweathermap.org/api)
+Languages: HTML, CSS, JavaScript
+
+API: [Open Weather Map API](https://openweathermap.org/api)
 
 ## Links
 
