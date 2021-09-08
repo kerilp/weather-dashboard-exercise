@@ -1,8 +1,6 @@
 # Weather Dashboard
 
-## Homework 06: Weather Dashboard
-
-Create a weather dashboard that allows user to search by city and displays the current weather and 5 day forecast for that city.
+A weather dashboard that allows the user to search for a city by name and displays relevant weather information, including the current weather, a five day forecast, and a user search history.
 
 ## Links
 
